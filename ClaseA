@@ -1,0 +1,9 @@
+public calss ClaseA{
+
+private int x;
+
+public ClaseA(){
+x=0;
+}
+
+}
